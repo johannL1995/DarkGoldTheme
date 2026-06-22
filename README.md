@@ -24,6 +24,12 @@ Another way to install themes is to copy the <a href="DarkGold.xml">DarkGold.xml
 
 <b>Note:</b> This directory might not exist until you install a theme through the preferences menu, but you can also manually create these directories if need be.
 
+<hr>
+
 And that's it.
 
 I hope you like it.
+
+<h2>License:</h2>
+
+<a href="LICENSE">GPL-3.0</a>

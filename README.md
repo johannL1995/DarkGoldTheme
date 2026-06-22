@@ -18,6 +18,10 @@ To install themes in Blender 3.0 and later is simple.
   
 </ol>
 
+<h2>Alternative Installation:</h2>
+
+Another way to install themes is to copy the <a href="DarkGold.xml">DarkGold.xml</a> file and paste it into your <b>%appdata%\Blender Foundation\Blender\3.0\scripts\presets\interface_theme</b> directory.
+
 And that's it.
 
 I hope you like it.
